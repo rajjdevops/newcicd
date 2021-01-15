@@ -1,0 +1,6 @@
+projectKey=nodejs-cicd
+serverUrl=http://54.206.103.106
+serverVersion=8.6.0.39681
+dashboardUrl=http://54.206.103.106/dashboard?id=nodejs-cicd
+ceTaskId=AXcB8EYTFxg06B8dA68T
+ceTaskUrl=http://54.206.103.106/api/ce/task?id=AXcB8EYTFxg06B8dA68T
